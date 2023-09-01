@@ -90,7 +90,6 @@ public class TheDictionary implements DictionaryInterface {
         }
     }
 
-
     @Override
     public void threeParameters() {
         List<String> defArray = this.beginning();
@@ -107,7 +106,6 @@ public class TheDictionary implements DictionaryInterface {
                     "|\n");
         }
     }
-
 
     @Override
     public void findWord() {
@@ -134,7 +132,6 @@ public class TheDictionary implements DictionaryInterface {
             }
         }
     }
-
 
     @Override
     public void findReverse() {

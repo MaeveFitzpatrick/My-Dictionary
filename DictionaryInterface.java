@@ -19,6 +19,7 @@ public interface DictionaryInterface {
     void findPartsOfSpeech();
 
     void findReverse();
+    
 }
 
 
